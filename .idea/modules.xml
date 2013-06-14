@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/driver-core/cassandra-driver-core.iml" filepath="$PROJECT_DIR$/driver-core/cassandra-driver-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-examples/cassandra-driver-examples-parent.iml" filepath="$PROJECT_DIR$/driver-examples/cassandra-driver-examples-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/driver-examples/stress/cassandra-driver-examples-stress.iml" filepath="$PROJECT_DIR$/driver-examples/stress/cassandra-driver-examples-stress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra-driver-parent.iml" filepath="$PROJECT_DIR$/cassandra-driver-parent.iml" />
+    </modules>
+  </component>
+</project>
+
